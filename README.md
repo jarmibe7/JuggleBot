@@ -26,7 +26,7 @@ All code is in an IPython Notebook, and organized into sections.
 10. Animate system with custom animation function.
 
 ## Results
-My dynamics simulation is a physcially reasonable depiction of soccer juggling. Below is the final version of a plot I used during development to determine the success of my simulation. It displays the dynamics of all state variables, and their adherence to the impact constraints.
+My dynamics simulation is a physcially reasonable depiction of soccer juggling. Below is the final version of a plot I used during development to determine the success of my simulation. It displays the dynamics of all state variables, and their adherence to their respective impact constraints.
 
 ![trajectory_plot.png](Figures/trajectory_plot.png)
 

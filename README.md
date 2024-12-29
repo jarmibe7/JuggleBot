@@ -21,7 +21,7 @@ All code is in an IPython Notebook, and organized into sections.
 5. Define all 20 potential impacts, and create impact equations.
 6. Create PD controller and custom conditional force equation.
 7. Evaluate forced Euler-Lagrange equations.
-8. Create numerical impact update, simulation, and integration equations.
+8. Create numerical impact update, simulation, and integration functions.
 9. Simulate and plot system trajectory.
 10. Animate system with custom animation function.
 

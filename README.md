@@ -17,7 +17,7 @@ All code is in an IPython Notebook, and organized into sections.
 1. Define system parameters and inertia matrices.
 2. Create helper functions for manipulating SE3 matrices (inverse, skew-symmetric, derivatives, conversion to 6-dimensional twist).
 3. Calculate all necessary frame transformations.
-4. Compute Lagrangian with kinetic and potential energy.
+4. Compute the system's kinetic energy, potential energy, and Lagrangian.
 5. Define all 20 potential impacts, and create impact equations.
 6. Create PD controller and custom conditional force equation.
 7. Evaluate forced Euler-Lagrange equations.

@@ -15,7 +15,7 @@ My system consists of 2 walls (left and right), a floor, a leg (represented as a
 All code is in an IPython Notebook, and organized into sections.
 
 1. Define system parameters and inertia matrices.
-2. Create helper functions for manipulating SE3 matrices (inverse, skew-symmetric, derivatives, conversion to 6-dimensional twist)
+2. Create helper functions for manipulating SE3 matrices (inverse, skew-symmetric, derivatives, conversion to 6-dimensional twist).
 3. Calculate all necessary frame transformations.
 4. Compute Lagrangian with kinetic and potential energy.
 5. Define all 20 potential impacts, and create impact equations.
